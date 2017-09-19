@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33971" started-at="2017-09-15T10:45:50Z" finished-at="2017-09-15T10:46:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33971" started-at="2017-09-15T10:45:50Z" finished-at="2017-09-15T10:46:24Z">
+      <class name="com.SelProject.LaunchBrowser">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.SelProject.LaunchBrowser@4909b8da]" name="init" duration-ms="33859" started-at="2017-09-15T22:45:50Z" finished-at="2017-09-15T22:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- com.SelProject.LaunchBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
